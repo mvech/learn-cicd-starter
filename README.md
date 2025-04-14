@@ -24,3 +24,5 @@ You do *not* need to set up a database or any interactivity on the webpage yet. 
 
 
 MVECH's version of Boot.dev's Notely app.
+
+![test badge](https://github.com/mvech/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
