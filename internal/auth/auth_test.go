@@ -38,7 +38,7 @@ func TestGetAPIKey(t *testing.T) {
 			name:    "No authorization",
 			args:    args{},
 			want:    "",
-			wantErr: false,
+			wantErr: true,
 		},
 	}
 	for _, tt := range tests {
